@@ -38,9 +38,7 @@ The project is organized into several packages:
     ```json
     {
       "playerName": "Player 1",
-      "number": 56,
-      "addedValue": 0,
-      "isGameOver": false
+      "number": 56
     }
     ```
 
